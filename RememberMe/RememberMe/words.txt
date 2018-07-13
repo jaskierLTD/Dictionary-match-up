@@ -1,0 +1,5 @@
+fish
+sword
+bag
+desk
+apple
